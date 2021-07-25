@@ -52,3 +52,4 @@ label尽量使用BMFont来代替TTF的方式，这样可以减少一些drawcall
 
 ------
 
+参考资料：https://www.twblogs.net/a/5efe7c0f9644181341a14f54
