@@ -53,3 +53,5 @@ label尽量使用BMFont来代替TTF的方式，这样可以减少一些drawcall
 ------
 
 参考资料：https://www.twblogs.net/a/5efe7c0f9644181341a14f54
+
+官网资料：https://docs.cocos.com/creator/manual/zh/components/label.html#%E6%96%87%E6%9C%AC%E7%BC%93%E5%AD%98%E7%B1%BB%E5%9E%8B%EF%BC%88cache-mode%EF%BC%89
