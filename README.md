@@ -5,7 +5,7 @@
 
 优化图总结如下
 
-![](/Users/joy/Documents/GitHub/optimization/1.png)
+![](https://github.com/sanzhixiong1986/optimization/blob/main/1.png)
 
 ### [cocos 资源优化](https://github.com/sanzhixiong1986/optimization/blob/main/README1.md)
 
